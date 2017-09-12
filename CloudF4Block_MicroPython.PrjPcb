@@ -70,6 +70,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHLWBUYP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CloudF4Block_MicroPython\Design Rule Check - CloudF4Block_MicroPython.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -104,7 +108,7 @@ OutputDefault3=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=∑¢ÀÕ÷¡ OneNote 2013
+TargetPrinter=Foxit PhantomPDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
